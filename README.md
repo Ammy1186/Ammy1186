@@ -1,3 +1,4 @@
+![logo](https://github.com/Ammy1186/Ammy1186/blob/main/Group.png)
 <h1 align="center">Hi 👋, I'm Amit Kumar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
